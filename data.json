@@ -1,0 +1,24 @@
+[{
+	"tplStr": "",
+	"tplFile": "tpls/idea.properties.tpl",
+	"data": {
+		"dir_config": "${idea.home.path}/.IntelliJIdea/config",
+		"dir_system": "${idea.home.path}/.IntelliJIdea/system",
+		"dir_log": "${idea.home.path}/.IntelliJIdea/log"
+	},
+	"outFile": "D:\\soft\\idea\\ideaIU-2020.2.win\\bin\\idea.properties"
+}, {
+	"tplStr": "",
+	"tplFile": "tpls/ideaIU_重置试用时间.bat.tpl",
+	"data": {
+		"idea_config_dir": "D:\\soft\\idea\\ideaIU-2020.2.win\\.IntelliJIdea\\config"
+	},
+	"outFile": "dist/ideaIU_重置试用时间.bat"
+}, {
+	"tplStr": "",
+	"tplFile": "tpls/idea_添加右键菜单.reg.tpl",
+	"data": {
+		"idea_home": "D:\\\\soft\\\\idea\\\\ideaIU-2020.2.win"
+	},
+	"outFile": "dist/idea_添加右键菜单.reg"
+}]

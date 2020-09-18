@@ -1,0 +1,16 @@
+idea.config.path={{dir_config}}
+idea.system.path={{dir_system}}
+idea.log.path={{dir_log}}
+idea.max.intellisense.filesize=2500
+idea.max.content.load.filesize=20000
+idea.cycle.buffer.size=1024
+idea.no.launcher=false
+idea.dynamic.classpath=false
+idea.popup.weight=heavy
+sun.java2d.d3d=false
+swing.bufferPerWindow=true
+sun.java2d.pmoffscreen=false
+sun.java2d.uiScale.enabled=true
+javax.swing.rebaseCssSizeMap=true
+idea.xdebug.key=-Xdebug
+idea.fatal.error.notification=disabled
